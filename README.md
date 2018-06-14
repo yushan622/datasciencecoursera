@@ -1,4 +1,4 @@
-# ds_toolbox_01
+# datasciencecoursera
 Data science - Data scientist toolbox 01
 
 This project just demostrates that I got my github account set up.
