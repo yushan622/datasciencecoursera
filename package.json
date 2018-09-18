@@ -1,0 +1,25 @@
+{
+  "name": "eqrs-mock-okta",
+  "version": "1.0.0",
+  "description": "mock okta server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "http://vqnpap123.hcqis.org:10080/kd8224/eqrs-mock-okta.git"
+  },
+  "keywords": [
+    "okta"
+  ],
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "jws": "^3.1.5"
+  }
+}
